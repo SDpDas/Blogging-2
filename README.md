@@ -28,10 +28,10 @@ Lots of routing methods were used by JavaScript hence only clickable features in
 
 ---
 
-![homepage](https://github.com/SDpDas/Blogging-website/assets/104672899/82b524c3-f675-4b12-a24b-ce85d2b07bc3)
+![homepage](https://github.com/user-attachments/assets/e4cc2e1b-1d4d-43e5-9dc1-bd8c3ed992fc)
 
-![postedit_page](https://github.com/SDpDas/Blogging-website/assets/104672899/3127fdbc-2b13-4b3d-bd15-2574da12eba5)
+![postedit_page](https://github.com/user-attachments/assets/6cc26df6-6a8f-4257-8e26-e50cdf2d0b92)
 
-![analytics](https://github.com/SDpDas/Blogging-website/assets/104672899/cee8036e-dc23-423f-99b9-976a422aa56e)
+![analytics](https://github.com/user-attachments/assets/06ccd80a-f781-4f04-8e2e-dea87c4a692d)
 
 Created by **Sagardeep Das** with ❤️‍🔥
